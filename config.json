@@ -11,9 +11,11 @@
     },
     {
       "keyword": "React"
-    }
+    },
+    "WordPress",
+    "Angular"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
+  "twitter_account": "@salttechno",
   "github_account": "salttechno"
 }
